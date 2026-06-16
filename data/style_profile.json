@@ -1,0 +1,38 @@
+{
+  "style_tags": [
+    "y2k",
+    "vintage",
+    "graphic tee",
+    "cottagecore",
+    "denim",
+    "classic",
+    "streetwear",
+    "90s",
+    "feminine",
+    "floral",
+    "grunge",
+    "flannel",
+    "layering"
+  ],
+  "favorite_colors": [
+    "white",
+    "pink",
+    "purple",
+    "light blue",
+    "ivory",
+    "dusty pink",
+    "green",
+    "red",
+    "black"
+  ],
+  "favorite_categories": [
+    "tops",
+    "outerwear",
+    "bottoms"
+  ],
+  "saved_wardrobe": {
+    "_note": "Use this as the starting template for a new user with no wardrobe entered yet.",
+    "items": []
+  },
+  "interaction_count": 9
+}
